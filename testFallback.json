@@ -1,4 +1,4 @@
 {
-  "failover": true,
+  "failover": false,
   "url": "https://www.washingtonpost.com"
 }
